@@ -17,3 +17,4 @@
 * Create public/index.html
 * `npm run build`
 * install line-clamp plugin `npm install -D @tailwindcss/line-clamp`
+![screencapture-localhost-63342-fylo-public-index-html-2023-12-03-22_56_13.png](screenshots%2Fscreencapture-localhost-63342-fylo-public-index-html-2023-12-03-22_56_13.png)![screencapture-localhost-63342-fylo-public-index-html-2023-12-03-22_56_45.png](screenshots%2Fscreencapture-localhost-63342-fylo-public-index-html-2023-12-03-22_56_45.png)![screencapture-localhost-63342-fylo-public-index-html-2023-12-03-23_00_11.png](screenshots%2Fscreencapture-localhost-63342-fylo-public-index-html-2023-12-03-23_00_11.png)
